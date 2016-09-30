@@ -68,9 +68,7 @@ $this->title = Yii::t('app', 'app_name');
 
 <footer class="footer">
     <div class="container">
-        <p class="pull-left">&copy; My Company <?= date('Y') ?></p>
-
-        <p class="pull-right"><?= Yii::powered() ?></p>
+        <p class="pull-left">&copy; <a href="http://bravetechnology.co.jp/">BraveTechnology inc. <?= date('Y') ?></a></p>
     </div>
 </footer>
 
