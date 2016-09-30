@@ -68,8 +68,8 @@ __ プロジェクトルート/config/web.php 13行目 __
 下記箇所へ初期ユーザー情報を追加する。  
 パスワードはsha1ハッシュされたものを入力する。  
 例）  
-パスワードに設定したい値：ikata  
-パスワードに記載する値：da379e855b0e1eb731ffe7096dd1fce83d4df840
+パスワードに設定したい値：somepassword  
+パスワードに記載する値：f8377c90fcfd699f0ddbdcb30c2c9183d2d933ea
 
 __ プロジェクトルート/migrations/m160916_005826_create_user_table.php 28/29行目 __
 
